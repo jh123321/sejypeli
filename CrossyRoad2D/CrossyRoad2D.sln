@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossyRoad2D", "CrossyRoad2D\CrossyRoad2D\CrossyRoad2D.csproj", "{8BC7C9BE-F5E9-4BF9-9DBB-F8B6F8849CCC}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CrossyRoad2DContent", "CrossyRoad2D\CrossyRoad2DContent\CrossyRoad2DContent.contentproj", "{C189A5DF-BFAA-44F2-8592-6317F263FB8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BC7C9BE-F5E9-4BF9-9DBB-F8B6F8849CCC}.Debug|x86.ActiveCfg = Debug|x86
+		{8BC7C9BE-F5E9-4BF9-9DBB-F8B6F8849CCC}.Debug|x86.Build.0 = Debug|x86
+		{8BC7C9BE-F5E9-4BF9-9DBB-F8B6F8849CCC}.Release|x86.ActiveCfg = Release|x86
+		{8BC7C9BE-F5E9-4BF9-9DBB-F8B6F8849CCC}.Release|x86.Build.0 = Release|x86
+		{C189A5DF-BFAA-44F2-8592-6317F263FB8B}.Debug|x86.ActiveCfg = Debug|x86
+		{C189A5DF-BFAA-44F2-8592-6317F263FB8B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
